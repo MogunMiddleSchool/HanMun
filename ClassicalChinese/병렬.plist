@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>해양</key>
+	<string></string>
+	<key>차이</key>
+	<string></string>
+	<key>좌우</key>
+	<string></string>
+	<key>초빙</key>
+	<string></string>
+	<key>빈부</key>
+	<string></string>
+	<key>전답</key>
+	<string></string>
+	<key>유연</key>
+	<string></string>
+	<key>찬반</key>
+	<string></string>
+	<key>토벌</key>
+	<string></string>
+	<key>신축</key>
+	<string></string>
+	<key>승강</key>
+	<string></string>
+	<key>전환</key>
+	<string></string>
+	<key>둔탁</key>
+	<string></string>
+	<key>장단</key>
+	<string></string>
+	<key>진위</key>
+	<string></string>
+	<key>가요</key>
+	<string></string>
+	<key>위협</key>
+	<string></string>
+	<key>건조</key>
+	<string></string>
+	<key>종료</key>
+	<string></string>
+	<key>왕래</key>
+	<string></string>
+	<key>희망</key>
+	<string></string>
+	<key>미추</key>
+	<string></string>
+	<key>금수</key>
+	<string></string>
+	<key>표리</key>
+	<string></string>
+	<key>승패</key>
+	<string></string>
+	<key>방해</key>
+	<string></string>
+	<key>창고</key>
+	<string></string>
+	<key>완급</key>
+	<string></string>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>귀가</key>
+	<string></string>
+	<key>입학</key>
+	<string></string>
+	<key>다정</key>
+	<string></string>
+	<key>다습</key>
+	<string></string>
+	<key>침수</key>
+	<string></string>
+	<key>수상</key>
+	<string></string>
+	<key>응모</key>
+	<string></string>
+	<key>취침</key>
+	<string></string>
+	<key>난해</key>
+	<string></string>
+	<key>출석</key>
+	<string></string>
+	<key>다감</key>
+	<string></string>
+	<key>하선</key>
+	<string></string>
+</dict>
+</plist>

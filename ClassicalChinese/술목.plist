@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>과강</key>
+	<string></string>
+	<key>폐업</key>
+	<string></string>
+	<key>발권</key>
+	<string></string>
+	<key>발본</key>
+	<string></string>
+	<key>기마</key>
+	<string></string>
+	<key>세수</key>
+	<string></string>
+	<key>천도</key>
+	<string></string>
+	<key>집하</key>
+	<string></string>
+	<key>계몽</key>
+	<string></string>
+	<key>독서</key>
+	<string></string>
+	<key>압권</key>
+	<string></string>
+	<key>모험</key>
+	<string></string>
+	<key>방역</key>
+	<string></string>
+	<key>식목</key>
+	<string></string>
+	<key>을법</key>
+	<string></string>
+	<key>골업</key>
+	<string></string>
+</dict>
+</plist>
