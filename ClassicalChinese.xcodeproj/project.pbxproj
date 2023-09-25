@@ -20,6 +20,7 @@
 		07B45CF62ABEC09100A65931 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B45CF52ABEC09100A65931 /* MenuViewController.swift */; };
 		07B45CFA2ABEC18300A65931 /* book.json in Resources */ = {isa = PBXBuildFile; fileRef = 07B45CF92ABEC18300A65931 /* book.json */; };
 		07B45CFD2ABEC4E900A65931 /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 07B45CFC2ABEC4E900A65931 /* Lottie */; };
+		07D4943E2AC1E20C00F356A4 /* TheoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07D4943D2AC1E20C00F356A4 /* TheoryViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		078428772ABD73F000100C70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		07B45CF52ABEC09100A65931 /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 		07B45CF92ABEC18300A65931 /* book.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = book.json; path = ../../../../Downloads/book.json; sourceTree = "<group>"; };
+		07D4943D2AC1E20C00F356A4 /* TheoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheoryViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				0784286B2ABD73EF00100C70 /* SceneDelegate.swift */,
 				07B45CF52ABEC09100A65931 /* MenuViewController.swift */,
 				0784286F2ABD73EF00100C70 /* Main.storyboard */,
+				07D4943D2AC1E20C00F356A4 /* TheoryViewController.swift */,
 				078428722ABD73F000100C70 /* Assets.xcassets */,
 				078428742ABD73F000100C70 /* LaunchScreen.storyboard */,
 				078428772ABD73F000100C70 /* Info.plist */,
@@ -181,6 +184,7 @@
 				0784286A2ABD73EF00100C70 /* AppDelegate.swift in Sources */,
 				07B45CF62ABEC09100A65931 /* MenuViewController.swift in Sources */,
 				0784286C2ABD73EF00100C70 /* SceneDelegate.swift in Sources */,
+				07D4943E2AC1E20C00F356A4 /* TheoryViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
