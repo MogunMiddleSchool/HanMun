@@ -3,28 +3,76 @@
 <plist version="1.0">
 <dict>
 	<key>귀가</key>
-	<string></string>
+	<array>
+		<string>집에 돌아감</string>
+		<string>돌아갈 귀,집 가</string>
+		<string>歸家</string>
+	</array>
 	<key>입학</key>
-	<string></string>
+	<array>
+		<string>학교에 들어감</string>
+		<string>들 입,학교 학</string>
+		<string>入學</string>
+	</array>
 	<key>다정</key>
-	<string></string>
+	<array>
+		<string>정이 많음</string>
+		<string>많을 다,정 정</string>
+		<string>多情</string>
+	</array>
 	<key>다습</key>
-	<string></string>
+	<array>
+		<string>습기가 많음</string>
+		<string>많을 다,습기 습</string>
+		<string>多濕</string>
+	</array>
 	<key>침수</key>
-	<string></string>
+	<array>
+		<string>물에 잠긺</string>
+		<string>잠길 침,물 수</string>
+		<string>沈水</string>
+	</array>
 	<key>수상</key>
-	<string></string>
+	<array>
+		<string>보통과 다름</string>
+		<string>다를 수,보통 상</string>
+		<string>殊常</string>
+	</array>
 	<key>응모</key>
-	<string></string>
+	<array>
+		<string>모집에 응함</string>
+		<string>응할 응,모집 모</string>
+		<string>應募</string>
+	</array>
 	<key>취침</key>
-	<string></string>
+	<array>
+		<string>잠에 듦</string>
+		<string>나아갈[들] 취,잘 침</string>
+		<string>就寢</string>
+	</array>
 	<key>난해</key>
-	<string></string>
+	<array>
+		<string>풀기 어려움</string>
+		<string>어려울 난,풀 해</string>
+		<string>難解</string>
+	</array>
 	<key>출석</key>
-	<string></string>
+	<array>
+		<string>자리에 나옴</string>
+		<string>나올 출,자리 석</string>
+		<string>出席</string>
+	</array>
 	<key>다감</key>
-	<string></string>
+	<array>
+		<string>느낌이 많음</string>
+		<string>많을 다,느낌 감</string>
+		<string>多感</string>
+	</array>
 	<key>하선</key>
-	<string></string>
+	<array>
+		<string>배에서 내림</string>
+		<string>내릴 하,배 선</string>
+		<string>下船</string>
+	</array>
 </dict>
 </plist>

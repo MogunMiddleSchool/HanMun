@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0748980D2AC16940003A7B34 /* 주술.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0748980C2AC16940003A7B34 /* 주술.plist */; };
+		0748980D2AC16940003A7B34 /* 수식.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0748980C2AC16940003A7B34 /* 수식.plist */; };
 		0748980F2AC1694F003A7B34 /* 술목.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0748980E2AC1694F003A7B34 /* 술목.plist */; };
 		074898112AC1695B003A7B34 /* 술보.plist in Resources */ = {isa = PBXBuildFile; fileRef = 074898102AC1695B003A7B34 /* 술보.plist */; };
 		074898132AC16967003A7B34 /* 병렬.plist in Resources */ = {isa = PBXBuildFile; fileRef = 074898122AC16967003A7B34 /* 병렬.plist */; };
-		074898152AC16E49003A7B34 /* 수식.plist in Resources */ = {isa = PBXBuildFile; fileRef = 074898142AC16E49003A7B34 /* 수식.plist */; };
+		074898152AC16E49003A7B34 /* 주술.plist in Resources */ = {isa = PBXBuildFile; fileRef = 074898142AC16E49003A7B34 /* 주술.plist */; };
 		0784286A2ABD73EF00100C70 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 078428692ABD73EF00100C70 /* AppDelegate.swift */; };
 		0784286C2ABD73EF00100C70 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0784286B2ABD73EF00100C70 /* SceneDelegate.swift */; };
 		078428712ABD73EF00100C70 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0784286F2ABD73EF00100C70 /* Main.storyboard */; };
@@ -23,11 +23,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0748980C2AC16940003A7B34 /* 주술.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "주술.plist"; sourceTree = "<group>"; };
+		0748980C2AC16940003A7B34 /* 수식.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "수식.plist"; sourceTree = "<group>"; };
 		0748980E2AC1694F003A7B34 /* 술목.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "술목.plist"; sourceTree = "<group>"; };
 		074898102AC1695B003A7B34 /* 술보.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "술보.plist"; sourceTree = "<group>"; };
 		074898122AC16967003A7B34 /* 병렬.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "병렬.plist"; sourceTree = "<group>"; };
-		074898142AC16E49003A7B34 /* 수식.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "수식.plist"; sourceTree = "<group>"; };
+		074898142AC16E49003A7B34 /* 주술.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "주술.plist"; sourceTree = "<group>"; };
 		078428662ABD73EF00100C70 /* ClassicalChinese.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ClassicalChinese.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		078428692ABD73EF00100C70 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0784286B2ABD73EF00100C70 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,10 +79,10 @@
 				078428722ABD73F000100C70 /* Assets.xcassets */,
 				078428742ABD73F000100C70 /* LaunchScreen.storyboard */,
 				078428772ABD73F000100C70 /* Info.plist */,
-				0748980C2AC16940003A7B34 /* 주술.plist */,
+				0748980C2AC16940003A7B34 /* 수식.plist */,
 				0748980E2AC1694F003A7B34 /* 술목.plist */,
 				074898102AC1695B003A7B34 /* 술보.plist */,
-				074898142AC16E49003A7B34 /* 수식.plist */,
+				074898142AC16E49003A7B34 /* 주술.plist */,
 				074898122AC16967003A7B34 /* 병렬.plist */,
 			);
 			path = ClassicalChinese;
@@ -163,9 +163,9 @@
 				074898112AC1695B003A7B34 /* 술보.plist in Resources */,
 				0748980F2AC1694F003A7B34 /* 술목.plist in Resources */,
 				074898132AC16967003A7B34 /* 병렬.plist in Resources */,
-				074898152AC16E49003A7B34 /* 수식.plist in Resources */,
+				074898152AC16E49003A7B34 /* 주술.plist in Resources */,
 				078428732ABD73F000100C70 /* Assets.xcassets in Resources */,
-				0748980D2AC16940003A7B34 /* 주술.plist in Resources */,
+				0748980D2AC16940003A7B34 /* 수식.plist in Resources */,
 				07B45CFA2ABEC18300A65931 /* book.json in Resources */,
 				078428712ABD73EF00100C70 /* Main.storyboard in Resources */,
 			);

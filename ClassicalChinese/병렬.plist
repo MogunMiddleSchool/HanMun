@@ -2,61 +2,173 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>해양</key>
-	<string></string>
-	<key>차이</key>
-	<string></string>
-	<key>좌우</key>
-	<string></string>
-	<key>초빙</key>
-	<string></string>
-	<key>빈부</key>
-	<string></string>
-	<key>전답</key>
-	<string></string>
-	<key>유연</key>
-	<string></string>
-	<key>찬반</key>
-	<string></string>
-	<key>토벌</key>
-	<string></string>
-	<key>신축</key>
-	<string></string>
-	<key>승강</key>
-	<string></string>
-	<key>전환</key>
-	<string></string>
-	<key>둔탁</key>
-	<string></string>
-	<key>장단</key>
-	<string></string>
-	<key>진위</key>
-	<string></string>
-	<key>가요</key>
-	<string></string>
-	<key>위협</key>
-	<string></string>
-	<key>건조</key>
-	<string></string>
-	<key>종료</key>
-	<string></string>
-	<key>왕래</key>
-	<string></string>
-	<key>희망</key>
-	<string></string>
-	<key>미추</key>
-	<string></string>
-	<key>금수</key>
-	<string></string>
-	<key>표리</key>
-	<string></string>
-	<key>승패</key>
-	<string></string>
-	<key>방해</key>
-	<string></string>
-	<key>창고</key>
-	<string></string>
 	<key>완급</key>
-	<string></string>
+	<array>
+		<string>느림과 빠름</string>
+		<string>느릴 완,빠를 급</string>
+		<string>緩,急</string>
+	</array>
+	<key>창고</key>
+	<array>
+		<string>곳집</string>
+		<string>곳집 창,곳집 고</string>
+		<string>倉,庫</string>
+	</array>
+	<key>방해</key>
+	<array>
+		<string>방해함</string>
+		<string>방해할 방,방해할 해</string>
+		<string>勝,敗</string>
+	</array>
+	<key>승패</key>
+	<array>
+		<string>이김과 패함</string>
+		<string>이길 승,패할 패</string>
+		<string>勝敗</string>
+	</array>
+	<key>표리</key>
+	<array>
+		<string>겉과 속</string>
+		<string>겉 표,속 리</string>
+		<string>表,裏</string>
+	</array>
+	<key>금수</key>
+	<array>
+		<string>날짐승과 길짐승</string>
+		<string>날짐승 금,길짐승 수</string>
+		<string>禽獸</string>
+	</array>
+	<key>미추</key>
+	<array>
+		<string>아름다움과 추함</string>
+		<string>아름다울 미,추할 추</string>
+		<string>美醜</string>
+	</array>
+	<key>희망</key>
+	<array>
+		<string>바람</string>
+		<string>바랄 희,바랄 망</string>
+		<string>希望</string>
+	</array>
+	<key>왕래</key>
+	<array>
+		<string>감과 옴</string>
+		<string>갈 왕,올 래</string>
+		<string>往來</string>
+	</array>
+	<key>종료</key>
+	<array>
+		<string>마침</string>
+		<string>마칠 종,마칠 료</string>
+		<string>終了</string>
+	</array>
+	<key>건조</key>
+	<array>
+		<string>마름</string>
+		<string>마를 건,마를 조</string>
+		<string>乾燥</string>
+	</array>
+	<key>위협</key>
+	<array>
+		<string>협박과 위협</string>
+		<string>협박할 위,위협할 협</string>
+		<string>威脅</string>
+	</array>
+	<key>가요</key>
+	<array>
+		<string>노래</string>
+		<string>노래 가, 노래 요</string>
+		<string>歌謠</string>
+	</array>
+	<key>진위</key>
+	<array>
+		<string>참과 거짓</string>
+		<string>참 진,거짓 위</string>
+		<string>眞僞</string>
+	</array>
+	<key>장단</key>
+	<array>
+		<string>길고 짧음</string>
+		<string>길 장,짧을 단</string>
+		<string>長短</string>
+	</array>
+	<key>둔탁</key>
+	<array>
+		<string>둔함과 흐림</string>
+		<string>둔할 둔,흐릴 탁</string>
+		<string>鈍濁</string>
+	</array>
+	<key>전환</key>
+	<array>
+		<string>바꿈</string>
+		<string>바꿀 전,바꿀 환</string>
+		<string>轉換</string>
+	</array>
+	<key>승강</key>
+	<array>
+		<string>오르고 내림</string>
+		<string>오를 승,내릴 강</string>
+		<string>昇降</string>
+	</array>
+	<key>신축</key>
+	<array>
+		<string>늘이고 줄임</string>
+		<string>늘일 신,줄일 축</string>
+		<string>伸縮</string>
+	</array>
+	<key>토벌</key>
+	<array>
+		<string>침</string>
+		<string>칠 토,칠 벌</string>
+		<string>討伐</string>
+	</array>
+	<key>찬반</key>
+	<array>
+		<string>찬성과 반대</string>
+		<string>찬성할 찬,반대할 반</string>
+		<string>贊反</string>
+	</array>
+	<key>유연</key>
+	<array>
+		<string>부드러움과 연함</string>
+		<string>부드러울 유,연할 연</string>
+		<string>柔軟</string>
+	</array>
+	<key>전답</key>
+	<array>
+		<string>밭과 논</string>
+		<string>밭 전,논 답</string>
+		<string>田畓</string>
+	</array>
+	<key>빈부</key>
+	<array>
+		<string>가난하고 부유함</string>
+		<string>가난할 빈, 부유할 부</string>
+		<string>貧富</string>
+	</array>
+	<key>초빙</key>
+	<array>
+		<string>부름</string>
+		<string>부를 초,부를 빙</string>
+		<string>招聘</string>
+	</array>
+	<key>좌우</key>
+	<array>
+		<string>완쪽과 오른쪽</string>
+		<string>왼쪽 좌,오른쪽 우</string>
+		<string>左右</string>
+	</array>
+	<key>차이</key>
+	<array>
+		<string>다름</string>
+		<string>다를 차,다를 이</string>
+		<string>差異</string>
+	</array>
+	<key>해양</key>
+	<array>
+		<string>바다</string>
+		<string>바다 해,바다 양</string>
+		<string>海洋</string>
+	</array>
 </dict>
 </plist>

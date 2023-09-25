@@ -2,37 +2,101 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>과강</key>
-	<string></string>
-	<key>폐업</key>
-	<string></string>
-	<key>발권</key>
-	<string></string>
-	<key>발본</key>
-	<string></string>
-	<key>기마</key>
-	<string></string>
-	<key>세수</key>
-	<string></string>
-	<key>천도</key>
-	<string></string>
-	<key>집하</key>
-	<string></string>
-	<key>계몽</key>
-	<string></string>
-	<key>독서</key>
-	<string></string>
-	<key>압권</key>
-	<string></string>
-	<key>모험</key>
-	<string></string>
-	<key>방역</key>
-	<string></string>
+	<key>졸업</key>
+	<array>
+		<string>학업을 마침</string>
+		<string>마칠 졸,학업 업</string>
+		<string>卒業</string>
+	</array>
+	<key>준법</key>
+	<array>
+		<string>법을 지킴</string>
+		<string>지킬 준,법 법</string>
+		<string>遵法</string>
+	</array>
 	<key>식목</key>
-	<string></string>
-	<key>을법</key>
-	<string></string>
-	<key>골업</key>
-	<string></string>
+	<array>
+		<string>나무를 심음</string>
+		<string>심을 식,나무 목</string>
+		<string>植木</string>
+	</array>
+	<key>방역</key>
+	<array>
+		<string>전염병을 막음</string>
+		<string>막을 방,전염병 역</string>
+		<string>防疫</string>
+	</array>
+	<key>모험</key>
+	<array>
+		<string>위험을 무릅씀</string>
+		<string>무릅쓸 모,위험 험</string>
+		<string>冒險</string>
+	</array>
+	<key>압권</key>
+	<array>
+		<string>책을 누름,여럿 중 가장 뛰어남</string>
+		<string>누를 압,책 권</string>
+		<string>壓卷</string>
+	</array>
+	<key>독서</key>
+	<array>
+		<string>책을 읽음</string>
+		<string>읽을 독,책 서</string>
+		<string>讀書</string>
+	</array>
+	<key>계몽</key>
+	<array>
+		<string>어리석음을 깨우침</string>
+		<string>깨우칠 계,어리석을 몽</string>
+		<string>啓蒙</string>
+	</array>
+	<key>집하</key>
+	<array>
+		<string>짐을 모음</string>
+		<string>모을 집,짐 하</string>
+		<string>集荷</string>
+	</array>
+	<key>천도</key>
+	<array>
+		<string>도읍을 옮김</string>
+		<string>옮길 천,도읍 도</string>
+		<string>遷都</string>
+	</array>
+	<key>세수</key>
+	<array>
+		<string>손을 씻음</string>
+		<string>씻을 세,손 수</string>
+		<string>洗手</string>
+	</array>
+	<key>기마</key>
+	<array>
+		<string>말을 탐</string>
+		<string>말탈 기,말 마</string>
+		<string>騎馬</string>
+	</array>
+	<key>발본</key>
+	<array>
+		<string>근원을 뽑음,근본을 뽑음</string>
+		<string>뽑을 발,근원[근본] 본</string>
+		<string>拔本</string>
+	</array>
+	<key>발권</key>
+	<array>
+		<string>문서를 발행함</string>
+		<string>발행할 발,문서 권</string>
+		<string>發券</string>
+	</array>
+	<key>폐업</key>
+	<array>
+		<string>업을 그만둠</string>
+		<string>그만둘 폐,업 업</string>
+		<string>廢業</string>
+	</array>
+	<key>도강</key>
+	<array>
+		<string>강을 건넘</string>
+		<string>건널 도,강 강</string>
+		<string>都講</string>
+	</array>
 </dict>
 </plist>
