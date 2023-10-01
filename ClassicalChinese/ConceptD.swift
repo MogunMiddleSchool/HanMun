@@ -11,8 +11,6 @@ class ConceptD: UIViewController {
     @IBOutlet weak var sendButton: UIButton!
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
     }
     
     @IBAction func sendData(_ sender: Any) {
@@ -21,6 +19,5 @@ class ConceptD: UIViewController {
         nextVC.modalPresentationStyle = .fullScreen
         self.present(nextVC, animated: false,completion: nil)
     }
-    */
 
 }

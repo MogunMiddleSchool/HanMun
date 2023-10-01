@@ -1,78 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>인조</key>
+<array>
 	<array>
 		<string>사람이 만듦</string>
 		<string>사람 인,만들 조</string>
 		<string>人造</string>
 	</array>
-	<key>일몰</key>
 	<array>
 		<string>해가 짐</string>
 		<string>해 일,질 몰</string>
 		<string>日沒</string>
 	</array>
-	<key>일출</key>
 	<array>
 		<string>해가 뜸</string>
 		<string>해 일,뜰 출</string>
 		<string>日出</string>
 	</array>
-	<key>야심</key>
 	<array>
 		<string>밤이 깊음</string>
 		<string>밤 야,깊을 심</string>
 		<string>夜深</string>
 	</array>
-	<key>천부</key>
 	<array>
 		<string>하늘이 줌</string>
 		<string>하늘 천,줄 부</string>
 		<string>天賦</string>
 	</array>
-	<key>골절</key>
 	<array>
 		<string>뼈가 부러짐</string>
 		<string>뼈 골,부러질 절</string>
 		<string>骨折</string>
 	</array>
-	<key>심취</key>
 	<array>
 		<string>마음에 듦,마음이 취함</string>
 		<string>마을 심,취할 취</string>
 		<string>深趣</string>
 	</array>
-	<key>시급</key>
 	<array>
 		<string>때가 급함,시간이 급함</string>
 		<string>때[시간] 시,급할 급</string>
 		<string>時急</string>
 	</array>
-	<key>춘래</key>
 	<array>
 		<string>봄이 옴</string>
 		<string>봄 춘,올 래</string>
 		<string>春來</string>
 	</array>
-	<key>민주</key>
 	<array>
 		<string>국민이 주인,백성이 주인</string>
 		<string>백성[국민] 민,주인 주</string>
 		<string>民主</string>
 	</array>
-	<key>월출</key>
 	<array>
 		<string>달이 뜸</string>
 		<string>달 월,뜰 출</string>
 		<string>月出</string>
 	</array>
-	<key>화개</key>
 	<array>
 		<string>꽃이 핌</string>
 		<string>꽃 화,열[필] 개</string>
 		<string>花開</string>
 	</array>
-</dict>
+</array>
 </plist>

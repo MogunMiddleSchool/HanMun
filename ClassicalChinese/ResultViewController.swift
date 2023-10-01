@@ -8,22 +8,13 @@
 import UIKit
 
 class ResultViewController: UIViewController {
-
+    
+    @IBOutlet weak var 점수: UILabel!
+    var data : Array = ["","",""]
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
+        점수.text = data[1] + "/" + data[2]
     }
-    
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
-    }
-    */
 
 }

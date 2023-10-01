@@ -12,15 +12,22 @@
 		074898112AC1695B003A7B34 /* 술보.plist in Resources */ = {isa = PBXBuildFile; fileRef = 074898102AC1695B003A7B34 /* 술보.plist */; };
 		074898132AC16967003A7B34 /* 병렬.plist in Resources */ = {isa = PBXBuildFile; fileRef = 074898122AC16967003A7B34 /* 병렬.plist */; };
 		074898152AC16E49003A7B34 /* 주술.plist in Resources */ = {isa = PBXBuildFile; fileRef = 074898142AC16E49003A7B34 /* 주술.plist */; };
+		078182C02AC80666009CC0CA /* SFTTF.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 078182BF2AC80631009CC0CA /* SFTTF.ttf */; };
+		078182C22AC84F86009CC0CA /* ConceptA.swift in Sources */ = {isa = PBXBuildFile; fileRef = 078182C12AC84F86009CC0CA /* ConceptA.swift */; };
+		078182C42AC84F9D009CC0CA /* ConceptB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 078182C32AC84F9D009CC0CA /* ConceptB.swift */; };
+		078182C62AC84FAD009CC0CA /* ConceptC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 078182C52AC84FAD009CC0CA /* ConceptC.swift */; };
+		078182C82AC84FCB009CC0CA /* ConceptD.swift in Sources */ = {isa = PBXBuildFile; fileRef = 078182C72AC84FCB009CC0CA /* ConceptD.swift */; };
+		078182CA2AC84FD7009CC0CA /* ConceptE.swift in Sources */ = {isa = PBXBuildFile; fileRef = 078182C92AC84FD7009CC0CA /* ConceptE.swift */; };
+		078182CC2AC8507F009CC0CA /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 078182CB2AC8507F009CC0CA /* QuestionViewController.swift */; };
+		078182D82AC93642009CC0CA /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 078182D72AC93642009CC0CA /* ResultViewController.swift */; };
 		0784286A2ABD73EF00100C70 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 078428692ABD73EF00100C70 /* AppDelegate.swift */; };
 		0784286C2ABD73EF00100C70 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0784286B2ABD73EF00100C70 /* SceneDelegate.swift */; };
 		078428712ABD73EF00100C70 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0784286F2ABD73EF00100C70 /* Main.storyboard */; };
 		078428732ABD73F000100C70 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 078428722ABD73F000100C70 /* Assets.xcassets */; };
 		078428762ABD73F000100C70 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 078428742ABD73F000100C70 /* LaunchScreen.storyboard */; };
-		07B45CF62ABEC09100A65931 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07B45CF52ABEC09100A65931 /* MenuViewController.swift */; };
-		07B45CFA2ABEC18300A65931 /* book.json in Resources */ = {isa = PBXBuildFile; fileRef = 07B45CF92ABEC18300A65931 /* book.json */; };
 		07B45CFD2ABEC4E900A65931 /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 07B45CFC2ABEC4E900A65931 /* Lottie */; };
 		07D4943E2AC1E20C00F356A4 /* TheoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07D4943D2AC1E20C00F356A4 /* TheoryViewController.swift */; };
+		07EE7D392AC555E50069BC57 /* 사자성어.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07EE7D382AC555E50069BC57 /* 사자성어.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +36,14 @@
 		074898102AC1695B003A7B34 /* 술보.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "술보.plist"; sourceTree = "<group>"; };
 		074898122AC16967003A7B34 /* 병렬.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "병렬.plist"; sourceTree = "<group>"; };
 		074898142AC16E49003A7B34 /* 주술.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "주술.plist"; sourceTree = "<group>"; };
+		078182BF2AC80631009CC0CA /* SFTTF.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFTTF.ttf; sourceTree = "<group>"; };
+		078182C12AC84F86009CC0CA /* ConceptA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConceptA.swift; sourceTree = "<group>"; };
+		078182C32AC84F9D009CC0CA /* ConceptB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConceptB.swift; sourceTree = "<group>"; };
+		078182C52AC84FAD009CC0CA /* ConceptC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConceptC.swift; sourceTree = "<group>"; };
+		078182C72AC84FCB009CC0CA /* ConceptD.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConceptD.swift; sourceTree = "<group>"; };
+		078182C92AC84FD7009CC0CA /* ConceptE.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConceptE.swift; sourceTree = "<group>"; };
+		078182CB2AC8507F009CC0CA /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
+		078182D72AC93642009CC0CA /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		078428662ABD73EF00100C70 /* ClassicalChinese.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ClassicalChinese.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		078428692ABD73EF00100C70 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0784286B2ABD73EF00100C70 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -36,9 +51,8 @@
 		078428722ABD73F000100C70 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		078428752ABD73F000100C70 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		078428772ABD73F000100C70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		07B45CF52ABEC09100A65931 /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
-		07B45CF92ABEC18300A65931 /* book.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = book.json; path = ../../../../Downloads/book.json; sourceTree = "<group>"; };
 		07D4943D2AC1E20C00F356A4 /* TheoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheoryViewController.swift; sourceTree = "<group>"; };
+		07EE7D382AC555E50069BC57 /* 사자성어.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "사자성어.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,10 +87,8 @@
 		078428682ABD73EF00100C70 /* ClassicalChinese */ = {
 			isa = PBXGroup;
 			children = (
-				07B45CF92ABEC18300A65931 /* book.json */,
 				078428692ABD73EF00100C70 /* AppDelegate.swift */,
 				0784286B2ABD73EF00100C70 /* SceneDelegate.swift */,
-				07B45CF52ABEC09100A65931 /* MenuViewController.swift */,
 				0784286F2ABD73EF00100C70 /* Main.storyboard */,
 				07D4943D2AC1E20C00F356A4 /* TheoryViewController.swift */,
 				078428722ABD73F000100C70 /* Assets.xcassets */,
@@ -87,6 +99,15 @@
 				074898102AC1695B003A7B34 /* 술보.plist */,
 				074898142AC16E49003A7B34 /* 주술.plist */,
 				074898122AC16967003A7B34 /* 병렬.plist */,
+				07EE7D382AC555E50069BC57 /* 사자성어.plist */,
+				078182BF2AC80631009CC0CA /* SFTTF.ttf */,
+				078182C12AC84F86009CC0CA /* ConceptA.swift */,
+				078182D72AC93642009CC0CA /* ResultViewController.swift */,
+				078182C32AC84F9D009CC0CA /* ConceptB.swift */,
+				078182C52AC84FAD009CC0CA /* ConceptC.swift */,
+				078182C72AC84FCB009CC0CA /* ConceptD.swift */,
+				078182C92AC84FD7009CC0CA /* ConceptE.swift */,
+				078182CB2AC8507F009CC0CA /* QuestionViewController.swift */,
 			);
 			path = ClassicalChinese;
 			sourceTree = "<group>";
@@ -162,14 +183,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				078182C02AC80666009CC0CA /* SFTTF.ttf in Resources */,
 				078428762ABD73F000100C70 /* LaunchScreen.storyboard in Resources */,
 				074898112AC1695B003A7B34 /* 술보.plist in Resources */,
 				0748980F2AC1694F003A7B34 /* 술목.plist in Resources */,
+				07EE7D392AC555E50069BC57 /* 사자성어.plist in Resources */,
 				074898132AC16967003A7B34 /* 병렬.plist in Resources */,
 				074898152AC16E49003A7B34 /* 주술.plist in Resources */,
 				078428732ABD73F000100C70 /* Assets.xcassets in Resources */,
 				0748980D2AC16940003A7B34 /* 수식.plist in Resources */,
-				07B45CFA2ABEC18300A65931 /* book.json in Resources */,
 				078428712ABD73EF00100C70 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -182,9 +204,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				0784286A2ABD73EF00100C70 /* AppDelegate.swift in Sources */,
-				07B45CF62ABEC09100A65931 /* MenuViewController.swift in Sources */,
+				078182C22AC84F86009CC0CA /* ConceptA.swift in Sources */,
+				078182CA2AC84FD7009CC0CA /* ConceptE.swift in Sources */,
+				078182CC2AC8507F009CC0CA /* QuestionViewController.swift in Sources */,
+				078182C62AC84FAD009CC0CA /* ConceptC.swift in Sources */,
+				078182D82AC93642009CC0CA /* ResultViewController.swift in Sources */,
 				0784286C2ABD73EF00100C70 /* SceneDelegate.swift in Sources */,
 				07D4943E2AC1E20C00F356A4 /* TheoryViewController.swift in Sources */,
+				078182C82AC84FCB009CC0CA /* ConceptD.swift in Sources */,
+				078182C42AC84F9D009CC0CA /* ConceptB.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,150 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>서행</key>
+<array>
 	<array>
 		<string>천천히 감</string>
 		<string>천천히 할 서,갈 행</string>
 		<string>徐行</string>
 	</array>
-	<key>창천</key>
 	<array>
 		<string>푸른 하늘</string>
 		<string>푸를 창,하늘 천</string>
 		<string>蒼天</string>
 	</array>
-	<key>묘지</key>
 	<array>
 		<string>무덤이 있는 땅</string>
 		<string>무덤 묘,땅 지</string>
 		<string>墓地</string>
 	</array>
-	<key>전소</key>
 	<array>
 		<string>모두 탐,다 탐</string>
 		<string>모두[다] 전,탈 소</string>
 		<string>全燒</string>
 	</array>
-	<key>동방</key>
 	<array>
 		<string>동쪽의 나라</string>
 		<string>동쪽 동,나라 방</string>
 		<string>東邦</string>
 	</array>
-	<key>계피</key>
 	<array>
 		<string>계수나무의 껍질</string>
 		<string>계수나무 계,껍질 피</string>
 		<string>桂皮</string>
 	</array>
-	<key>식당</key>
 	<array>
 		<string>먹을 것을 파는 집</string>
 		<string>먹을 식,집 당</string>
 		<string>食堂</string>
 	</array>
-	<key>상아</key>
 	<array>
 		<string>코끼리의 어금지</string>
 		<string>코끼리 상,어금니 아</string>
 		<string>象牙</string>
 	</array>
-	<key>광풍</key>
 	<array>
 		<string>미친 바람</string>
 		<string>미칠 광,바람 풍</string>
 		<string>狂風</string>
 	</array>
-	<key>경도</key>
 	<array>
 		<string>굳은 정도</string>
 		<string>굳을 경,정도 도</string>
 		<string>硬度</string>
 	</array>
-	<key>자평</key>
 	<array>
 		<string>스스로 평가함</string>
 		<string>스스로 자,평가할 평</string>
 		<string>自評</string>
 	</array>
-	<key>응결</key>
 	<array>
 		<string>엉켜서 뭉침</string>
 		<string>엉킬 응,뭉칠 결</string>
 		<string>凝結</string>
 	</array>
-	<key>연근</key>
 	<array>
 		<string>연꽃의 뿌리</string>
 		<string>연꽃 연,뿌리 근</string>
 		<string>蓮根</string>
 	</array>
-	<key>분식</key>
 	<array>
 		<string>가루로 만든 음식</string>
 		<string>&lt;밀&gt;가루 분,음식 식</string>
 		<string>粉食</string>
 	</array>
-	<key>고봉</key>
 	<array>
 		<string>높은 봉우리</string>
 		<string>높을 고,봉우리 봉</string>
 		<string>高峯</string>
 	</array>
-	<key>교실</key>
 	<array>
 		<string>가르치는 방</string>
 		<string>가르칠 교,방 실</string>
 		<string>敎室</string>
 	</array>
-	<key>우정</key>
 	<array>
 		<string>친구의 정,벗의 정</string>
 		<string>벗[친구] 우,정 정</string>
 		<string>友情</string>
 	</array>
-	<key>효성</key>
 	<array>
 		<string>새벽의 별</string>
 		<string>새벽 효,별 성</string>
 		<string>曉星</string>
 	</array>
-	<key>소식</key>
 	<array>
 		<string>적게 먹음</string>
 		<string>적을 소,먹을 식</string>
 		<string>小食</string>
 	</array>
-	<key>방년</key>
 	<array>
 		<string>꽃다운 나이</string>
 		<string>꽃다울 방,나이 년</string>
 		<string>芳年</string>
 	</array>
-	<key>간신</key>
 	<array>
 		<string>간사한 신하</string>
 		<string>간사할 간,신하 신</string>
 		<string>姦臣</string>
 	</array>
-	<key>선고</key>
 	<array>
 		<string>널리 알림</string>
 		<string>널리 펼 선,알릴 고</string>
 		<string>宣告</string>
 	</array>
-	<key>반장</key>
 	<array>
 		<string>반의 우두머리</string>
 		<string>반 반,우두머리 장</string>
 		<string>班長</string>
 	</array>
-	<key>염전</key>
 	<array>
 		<string>소금의 밭</string>
 		<string>소금 염,밭 전</string>
 		<string>鹽田</string>
 	</array>
-</dict>
+</array>
 </plist>
