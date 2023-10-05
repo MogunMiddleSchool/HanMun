@@ -26,6 +26,7 @@
 		078428732ABD73F000100C70 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 078428722ABD73F000100C70 /* Assets.xcassets */; };
 		078428762ABD73F000100C70 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 078428742ABD73F000100C70 /* LaunchScreen.storyboard */; };
 		07B45CFD2ABEC4E900A65931 /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 07B45CFC2ABEC4E900A65931 /* Lottie */; };
+		07B9CC222ACE56FE00DEA1B3 /* UNI_HSR.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 07B9CC212ACE49D000DEA1B3 /* UNI_HSR.TTF */; };
 		07D4943E2AC1E20C00F356A4 /* TheoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07D4943D2AC1E20C00F356A4 /* TheoryViewController.swift */; };
 		07EE7D392AC555E50069BC57 /* 사자성어.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07EE7D382AC555E50069BC57 /* 사자성어.plist */; };
 /* End PBXBuildFile section */
@@ -51,6 +52,7 @@
 		078428722ABD73F000100C70 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		078428752ABD73F000100C70 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		078428772ABD73F000100C70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		07B9CC212ACE49D000DEA1B3 /* UNI_HSR.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = UNI_HSR.TTF; sourceTree = "<group>"; };
 		07D4943D2AC1E20C00F356A4 /* TheoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheoryViewController.swift; sourceTree = "<group>"; };
 		07EE7D382AC555E50069BC57 /* 사자성어.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "사자성어.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -101,6 +103,7 @@
 				074898122AC16967003A7B34 /* 병렬.plist */,
 				07EE7D382AC555E50069BC57 /* 사자성어.plist */,
 				078182BF2AC80631009CC0CA /* SFTTF.ttf */,
+				07B9CC212ACE49D000DEA1B3 /* UNI_HSR.TTF */,
 				078182C12AC84F86009CC0CA /* ConceptA.swift */,
 				078182D72AC93642009CC0CA /* ResultViewController.swift */,
 				078182C32AC84F9D009CC0CA /* ConceptB.swift */,
@@ -183,6 +186,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07B9CC222ACE56FE00DEA1B3 /* UNI_HSR.TTF in Resources */,
 				078182C02AC80666009CC0CA /* SFTTF.ttf in Resources */,
 				078428762ABD73F000100C70 /* LaunchScreen.storyboard in Resources */,
 				074898112AC1695B003A7B34 /* 술보.plist in Resources */,
@@ -365,6 +369,7 @@
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = CU6762QZJ4;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ClassicalChinese/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "한문";
@@ -395,6 +400,7 @@
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = CU6762QZJ4;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ClassicalChinese/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "한문";

@@ -30,7 +30,8 @@ class QuestionViewController: UIViewController {
         let 리스트 = plist_load(name: data[0])
         score = data[1]
         답 = (리스트[0] as! String).components(separatedBy: [","])
-        한자뜻.text = (리스트[1] as? String)?.replacingOccurrences(of: ",", with: "    ")
+        한자뜻.text = ((리스트[1] as? String)?.replacingOccurrences(of: " ", with: "(").replacingOccurrences(of: ",", with: ")ㅤㅤㅤㅤㅤ   "))! + ")"
+        한자.font = UIFont(name: "HYhaeseo", size: 80.0)
         한자.text = (리스트[2] as? String)?.replacingOccurrences(of: ",", with: "")
         
     }
@@ -40,7 +41,6 @@ class QuestionViewController: UIViewController {
             score = String(Int(score)! + 1)
         }
         if(data[2] == "5") {
-            print("gg")
             guard let nextVC = self.storyboard?.instantiateViewController(withIdentifier: "Result") as? ResultViewController else { return }
             nextVC.data = [String(data[0]),score,String(Int(data[2])!+1)]
             nextVC.modalPresentationStyle = .fullScreen
