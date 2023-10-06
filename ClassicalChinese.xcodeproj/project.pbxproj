@@ -27,6 +27,8 @@
 		078428762ABD73F000100C70 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 078428742ABD73F000100C70 /* LaunchScreen.storyboard */; };
 		07B45CFD2ABEC4E900A65931 /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 07B45CFC2ABEC4E900A65931 /* Lottie */; };
 		07B9CC222ACE56FE00DEA1B3 /* UNI_HSR.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 07B9CC212ACE49D000DEA1B3 /* UNI_HSR.TTF */; };
+		07CF14702ACF1C6B007948C2 /* Realm in Frameworks */ = {isa = PBXBuildFile; productRef = 07CF146F2ACF1C6B007948C2 /* Realm */; };
+		07CF14722ACF1C6B007948C2 /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 07CF14712ACF1C6B007948C2 /* RealmSwift */; };
 		07D4943E2AC1E20C00F356A4 /* TheoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07D4943D2AC1E20C00F356A4 /* TheoryViewController.swift */; };
 		07EE7D392AC555E50069BC57 /* 사자성어.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07EE7D382AC555E50069BC57 /* 사자성어.plist */; };
 /* End PBXBuildFile section */
@@ -62,6 +64,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07CF14722ACF1C6B007948C2 /* RealmSwift in Frameworks */,
+				07CF14702ACF1C6B007948C2 /* Realm in Frameworks */,
 				07B45CFD2ABEC4E900A65931 /* Lottie in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -140,6 +144,8 @@
 			name = ClassicalChinese;
 			packageProductDependencies = (
 				07B45CFC2ABEC4E900A65931 /* Lottie */,
+				07CF146F2ACF1C6B007948C2 /* Realm */,
+				07CF14712ACF1C6B007948C2 /* RealmSwift */,
 			);
 			productName = ClassicalChinese;
 			productReference = 078428662ABD73EF00100C70 /* ClassicalChinese.app */;
@@ -171,6 +177,7 @@
 			mainGroup = 0784285D2ABD73EF00100C70;
 			packageReferences = (
 				07CEDAF62ABDF7CB00FFA0BA /* XCRemoteSwiftPackageReference "lottie-ios" */,
+				07CF146E2ACF1C6B007948C2 /* XCRemoteSwiftPackageReference "realm-swift" */,
 			);
 			productRefGroup = 078428672ABD73EF00100C70 /* Products */;
 			projectDirPath = "";
@@ -455,6 +462,14 @@
 				minimumVersion = 4.3.1;
 			};
 		};
+		07CF146E2ACF1C6B007948C2 /* XCRemoteSwiftPackageReference "realm-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/realm/realm-swift.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
@@ -462,6 +477,16 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 07CEDAF62ABDF7CB00FFA0BA /* XCRemoteSwiftPackageReference "lottie-ios" */;
 			productName = Lottie;
+		};
+		07CF146F2ACF1C6B007948C2 /* Realm */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 07CF146E2ACF1C6B007948C2 /* XCRemoteSwiftPackageReference "realm-swift" */;
+			productName = Realm;
+		};
+		07CF14712ACF1C6B007948C2 /* RealmSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 07CF146E2ACF1C6B007948C2 /* XCRemoteSwiftPackageReference "realm-swift" */;
+			productName = RealmSwift;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

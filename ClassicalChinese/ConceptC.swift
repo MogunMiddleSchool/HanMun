@@ -15,7 +15,7 @@ class ConceptC: UIViewController {
     
     @IBAction func sendData(_ sender: Any) {
         guard let nextVC = self.storyboard?.instantiateViewController(withIdentifier: "Question") as? QuestionViewController else { return }
-        nextVC.data = ["수식","0","0"]
+        nextVC.data = ["수식","0","0",""]
         nextVC.modalPresentationStyle = .fullScreen
         self.present(nextVC, animated: false,completion: nil)
     }

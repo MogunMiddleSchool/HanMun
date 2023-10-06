@@ -4,7 +4,7 @@
 <array>
 	<array>
 		<string>천천히 감</string>
-		<string>천천히 할 서,갈 행</string>
+		<string>천천히*할 서,갈 행</string>
 		<string>徐行</string>
 	</array>
 	<array>
@@ -95,7 +95,7 @@
 	<array>
 		<string>적게 먹음</string>
 		<string>적을 소,먹을 식</string>
-		<string>小食</string>
+		<string>少食</string>
 	</array>
 	<array>
 		<string>꽃다운 나이</string>
@@ -109,7 +109,7 @@
 	</array>
 	<array>
 		<string>널리 알림</string>
-		<string>널리 펼 선,알릴 고</string>
+		<string>널리*펼 선,알릴 고</string>
 		<string>宣告</string>
 	</array>
 	<array>
