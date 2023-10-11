@@ -28,7 +28,7 @@
 		<string>表,裏</string>
 	</array>
 	<array>
-		<string>날짐승과 길짐승</string>
+		<string>날짐승과 길짐승,짐승</string>
 		<string>날짐승 금,길짐승 수</string>
 		<string>禽,獸</string>
 	</array>
@@ -43,7 +43,7 @@
 		<string>希望</string>
 	</array>
 	<array>
-		<string>감과 옴</string>
+		<string>감과 옴,가고 옴</string>
 		<string>갈 왕,올 래</string>
 		<string>往來</string>
 	</array>
@@ -72,7 +72,7 @@
 		<string>眞僞</string>
 	</array>
 	<array>
-		<string>길고 짧음</string>
+		<string>길고 짧음,장점과 단점</string>
 		<string>길 장,짧을 단</string>
 		<string>長短</string>
 	</array>

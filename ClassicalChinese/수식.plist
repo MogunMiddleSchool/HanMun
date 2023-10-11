@@ -38,12 +38,12 @@
 		<string>食堂</string>
 	</array>
 	<array>
-		<string>코끼리의 어금지</string>
+		<string>코끼리의 어금니</string>
 		<string>코끼리 상,어금니 아</string>
 		<string>象牙</string>
 	</array>
 	<array>
-		<string>미친 바람</string>
+		<string>미친 바람,거세게 부는 바람</string>
 		<string>미칠 광,바람 풍</string>
 		<string>狂風</string>
 	</array>
@@ -88,7 +88,7 @@
 		<string>友情</string>
 	</array>
 	<array>
-		<string>새벽의 별</string>
+		<string>새벽의 별,새벽별</string>
 		<string>새벽 효,별 성</string>
 		<string>曉星</string>
 	</array>
@@ -118,7 +118,7 @@
 		<string>班長</string>
 	</array>
 	<array>
-		<string>소금의 밭</string>
+		<string>소금의 밭,소금밭</string>
 		<string>소금 염,밭 전</string>
 		<string>鹽田</string>
 	</array>
