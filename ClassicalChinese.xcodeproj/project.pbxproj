@@ -27,6 +27,7 @@
 		078428762ABD73F000100C70 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 078428742ABD73F000100C70 /* LaunchScreen.storyboard */; };
 		07B45CFD2ABEC4E900A65931 /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 07B45CFC2ABEC4E900A65931 /* Lottie */; };
 		07B9CC222ACE56FE00DEA1B3 /* UNI_HSR.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 07B9CC212ACE49D000DEA1B3 /* UNI_HSR.TTF */; };
+		07BBA8552AD65A400028EB91 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BBA8542AD65A400028EB91 /* File.swift */; };
 		07CF14702ACF1C6B007948C2 /* Realm in Frameworks */ = {isa = PBXBuildFile; productRef = 07CF146F2ACF1C6B007948C2 /* Realm */; };
 		07CF14722ACF1C6B007948C2 /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 07CF14712ACF1C6B007948C2 /* RealmSwift */; };
 		07D4943E2AC1E20C00F356A4 /* TheoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07D4943D2AC1E20C00F356A4 /* TheoryViewController.swift */; };
@@ -55,6 +56,7 @@
 		078428752ABD73F000100C70 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		078428772ABD73F000100C70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		07B9CC212ACE49D000DEA1B3 /* UNI_HSR.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = UNI_HSR.TTF; sourceTree = "<group>"; };
+		07BBA8542AD65A400028EB91 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		07D4943D2AC1E20C00F356A4 /* TheoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheoryViewController.swift; sourceTree = "<group>"; };
 		07EE7D382AC555E50069BC57 /* 사자성어.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "사자성어.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -96,6 +98,7 @@
 				078428692ABD73EF00100C70 /* AppDelegate.swift */,
 				0784286B2ABD73EF00100C70 /* SceneDelegate.swift */,
 				0784286F2ABD73EF00100C70 /* Main.storyboard */,
+				07BBA8542AD65A400028EB91 /* File.swift */,
 				07D4943D2AC1E20C00F356A4 /* TheoryViewController.swift */,
 				078428722ABD73F000100C70 /* Assets.xcassets */,
 				078428742ABD73F000100C70 /* LaunchScreen.storyboard */,
@@ -223,6 +226,7 @@
 				0784286C2ABD73EF00100C70 /* SceneDelegate.swift in Sources */,
 				07D4943E2AC1E20C00F356A4 /* TheoryViewController.swift in Sources */,
 				078182C82AC84FCB009CC0CA /* ConceptD.swift in Sources */,
+				07BBA8552AD65A400028EB91 /* File.swift in Sources */,
 				078182C42AC84F9D009CC0CA /* ConceptB.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -391,7 +395,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = "1.0-alpha";
-				PRODUCT_BUNDLE_IDENTIFIER = kr.smartwe.ClassicalChinese;
+				PRODUCT_BUNDLE_IDENTIFIER = kr.smartwe.ClassicalChinese2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -422,7 +426,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = "1.0-alpha";
-				PRODUCT_BUNDLE_IDENTIFIER = kr.smartwe.ClassicalChinese;
+				PRODUCT_BUNDLE_IDENTIFIER = kr.smartwe.ClassicalChinese2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;

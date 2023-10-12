@@ -22,14 +22,16 @@ func plist_load(name:String) -> Array<Any> {
 class QuestionViewController: UIViewController {
     
     
+    @IBOutlet weak var 한자뜻2: UILabel!
     @IBOutlet weak var 필드: UITextField!
-    @IBOutlet weak var 한자뜻: UILabel!
+    @IBOutlet weak var 한자뜻1: UILabel!
     @IBOutlet weak var 한자: UILabel!
     @IBOutlet weak var sendButton: UIButton!
     var data : Array = ["","","",""]
     var 답 : Array = [""]
     var score : String = ""
     var 리스트3 : String = ""
+    var 한자뜻리스트 : Array = ["", ""]
     override func viewDidLoad() {
         super.viewDidLoad()
     }
@@ -47,9 +49,15 @@ class QuestionViewController: UIViewController {
             nextVC.modalPresentationStyle = .fullScreen
             self.present(nextVC, animated: false,completion: nil)
         }
-        한자뜻.text = (((리스트[1] as? String)?.replacingOccurrences(of: " ", with: "(").replacingOccurrences(of: "*", with: " ").replacingOccurrences(of: ",", with: ")ㅤㅤㅤㅤㅤ   "))! + ")")
+        한자뜻리스트 = (((리스트[1] as? String)?.replacingOccurrences(of: " ", with: "(").replacingOccurrences(of: "*", with: " ").replacingOccurrences(of: ",", with: ")ㅤㅤㅤㅤㅤ/"))! + ")").components(separatedBy: "/")
         한자.font = UIFont(name: "HYhaeseo", size: 80.0)
         한자.text = (리스트[2] as? String)?.replacingOccurrences(of: ",", with: "")
+    }
+    @IBAction func hint1(_ sender: Any) {
+        한자뜻1.text = 한자뜻리스트[0]
+    }
+    @IBAction func hint2(_ sender: Any) {
+        한자뜻2.text = 한자뜻리스트[1]
     }
     
     @IBAction func sendData(_ sender: Any) {
